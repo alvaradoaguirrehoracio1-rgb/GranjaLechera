@@ -1,0 +1,6 @@
+@GranjaLechera_HostAddress = http://localhost:5134
+
+GET {{GranjaLechera_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
